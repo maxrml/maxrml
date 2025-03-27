@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Max
 - 🌱 I’m studying Business Information Systems with a focus on Software Engineering
-- 👀 I’m eager to learn about AI/ML and connections to SWE
 - 📫 How to reach me: max.rml@web.de
 - 😄 Pronouns: (he, him)
 
